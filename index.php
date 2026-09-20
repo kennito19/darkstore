@@ -1,4 +1,9 @@
 <?php
+
+
+require_once __DIR__ . '/db.php';
+
+
 $products = [
     [
         'name' => 'AI Prompt Pack',
